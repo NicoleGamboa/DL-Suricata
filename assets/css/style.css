@@ -1,0 +1,39 @@
+.body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fondo-rosado {
+    background-color: #E83E8C;
+}
+
+.logo {
+    width: 132px; 
+}
+
+.titulo-pagina {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.ahora-aceptamos {
+    background-color: #17A2B8;
+}
+
+.logos-pago{
+    list-style: none;
+    padding: 0;
+}
+
+.logos-pago li {
+    display: inline-block;  
+    padding: 20px; 
+}
+
+.icono-pago {
+    font-size: 55px;
+    
+}
+
+.logo-footer {
+    width: 36px;
+}
